@@ -1,5 +1,5 @@
 {
-  "name": "0g-shared-sidecar",
+  "name": "0g-futurelock-sidecar",
   "version": "1.0.0",
   "description": "Shared 0G storage push sidecar, reused across prototype apps",
   "main": "sync.js",
